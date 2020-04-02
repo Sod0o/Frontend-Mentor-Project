@@ -1,4 +1,11 @@
 body {
     background: url("images/bg-intro-desktop.png");
-    background-color: hsl(0, 100%, 74%) ;
+    background-color: hsl(0, 100%, 74%);
+    font-family: 'Poppins', sans-serif;
+}
+
+.sec1 {
+    color: white;
+    margin-top: 35vh;
+    margin-left: 25vw;
 }
